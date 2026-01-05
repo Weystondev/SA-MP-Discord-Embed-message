@@ -56,8 +56,8 @@ public OnGameModeInit()
 	AddPlayerClass(0, 1958.3783, 1343.1572, 15.3746, 269.1425, 0, 0, 0, 0, 0, 0);
 	
 	// Discord channels
-	loginlog = DCC_FindChannelById("1144689371270893629");
-	exitlog = DCC_FindChannelById("1144689371270893629");
+	loginlog = DCC_FindChannelById("log channel ID");
+	exitlog = DCC_FindChannelById("log channel ID");
 	return 1;
 }
 
